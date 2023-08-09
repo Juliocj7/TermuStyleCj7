@@ -23,10 +23,11 @@
 </details>
 
 ## Menú Principal :
+![Screenshot_20230809_153644_Termux](https://github.com/Juliocj7/TermuStyleCj7/assets/81049859/f1a2cbe0-b39d-4167-afe9-b8cfb518548d)
 
 
 ## TermuStyleCj7 :
-* Esta es una versión antigua y obsoleta de [SimplyTheBest](https://github.com/Juliocj7/SimplyTheBestCj7).
+* Sorry, esta es una versión antigua y obsoleta de [SimplyTheBest](https://github.com/Juliocj7/SimplyTheBestCj7) xD
 * Personaliza **Termux** con la **poderosa** shell ZSH.
 * **Autocompletado** de comandos.
 * **Teclas, traductor, atajos y comandos** extras integrados.
