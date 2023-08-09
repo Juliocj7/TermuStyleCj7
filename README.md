@@ -23,8 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20230809_153644_Termux](https://github.com/Juliocj7/TermuStyleCj7/assets/81049859/f1a2cbe0-b39d-4167-afe9-b8cfb518548d)
-
+![Screenshot_20230809_154049_Termux](https://github.com/Juliocj7/TermuStyleCj7/assets/81049859/06489c88-4551-4b5f-8d77-3e538e0e15f7)
 
 ## TermuStyleCj7 :
 * Sorry, esta es una versión antigua y obsoleta de [SimplyTheBest](https://github.com/Juliocj7/SimplyTheBestCj7) xD
