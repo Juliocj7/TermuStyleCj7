@@ -23,27 +23,15 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20230516_071551_Termux](https://github.com/Juliocj7/SimplyTheBestCj7/assets/81049859/7b9f88a6-fa6c-4e5b-96fc-4952a0284cfa)
 
-## Termux Style :
-![Screenshot_20230516_071629_Termux](https://github.com/Juliocj7/SimplyTheBestCj7/assets/81049859/52203bd7-8a3d-4f4c-8e4b-9e9b5c9334f5)
 
----
-
-![Screenshot_20230516_072444_Termux](https://github.com/Juliocj7/SimplyTheBestCj7/assets/81049859/71a47eb6-52ac-45ea-8655-9221c5086135)
-
----
-
-![Screenshot_20230516_072016_Termux](https://github.com/Juliocj7/SimplyTheBestCj7/assets/81049859/7cb5c120-5f6a-44c7-8c53-2342db9affd0)
-
-## SimplyTheBestCj7 :
+## TermuStyleCj7 :
+* Esta es una versión antigua y obsoleta de [SimplyTheBest](https://github.com/Juliocj7/SimplyTheBestCj7).
 * Personaliza **Termux** con la **poderosa** shell ZSH.
 * **Autocompletado** de comandos.
 * **Teclas, traductor, atajos y comandos** extras integrados.
 * Entrar a un **directorio** con solo escribir su nombre.
-* Modifica las **fuentes** de tu terminal al igual que los **colores** a tu antojo.
 * Se usuario root (FakeRoot).
-* ...y mucho muuuuuuuucho más!!!
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
@@ -58,13 +46,13 @@ https://github.com/Juliocj7/UtilsCj7
 ```bash
   yes|pkg update && pkg upgrade
 ```
-* ` git clone https://github.com/Juliocj7/SimplyTheBestCj7 `
+* ` git clone https://github.com/Juliocj7/TermuStyleCj7 `
 
-* ` cd SimplyTheBestCj7 `
+* ` cd TermuStyleCj7 `
 
 * ` chmod +x * `
 
-* ` ./SimplyTheBestCj7 `
+* ` ./TermuStyleCj7.sh `
 
 <p align="center">
 <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif"/>
