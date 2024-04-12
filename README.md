@@ -36,31 +36,22 @@
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Instalación :
-
-* Para un correcto funcionamiento de la herramienta porfavor instale los [recursos básicos](https://github.com/Juliocj7/UtilsCj7) para termux :
-
-~~~
-https://github.com/Juliocj7/UtilsCj7
-~~~
+> [!NOTE]  
+> Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
 ```bash
-  yes|pkg update && pkg upgrade
+  yes|apt update && apt upgrade
 ```
+
 * ` git clone https://github.com/Juliocj7/TermuStyleCj7 `
 
 * ` cd TermuStyleCj7 `
 
 * ` chmod +x * `
 
-* ` ./TermuStyleCj7.sh `
+* ` ./TermuStyleCj7 `
 
-<p align="center">
-<img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif"/>
-</p>
-
+---
 ###### `Pd: Porfavor informar cualquier error`
 ###### `By: JulioCj7 +59179424937` :stuck_out_tongue_winking_eye:
-
-<p align="center">
-<img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif"/>
-</p>
+---
