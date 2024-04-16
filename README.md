@@ -45,8 +45,13 @@ ______________________________________________________
 ## Menú Principal :
 ![1000328575](https://github.com/Juliocj7/TermuStyleCj7/assets/81049859/ef348bb3-eb2d-4358-8c46-3a4e6b9c8437)
 
+<div align="center">
+
+  > Sorry, esta es una versión obsoleta de: [`SimplyTheBest`](https://github.com/Juliocj7/SimplyTheBest)
+
+</div>
+
 ## TermuStyleCj7 :
-* Sorry, esta es una versión antigua y obsoleta de [SimplyTheBest](https://github.com/Juliocj7/SimplyTheBest) xD
 * Personaliza **Termux** con la **poderosa** shell ZSH.
 * **Autocompletado** de comandos.
 * **Teclas, traductor, atajos y comandos** extras integrados.
@@ -59,17 +64,18 @@ ______________________________________________________
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* ` git clone https://github.com/Juliocj7/TermuStyleCj7 `
-
-* ` cd TermuStyleCj7 `
-
-* ` chmod +x * `
-
-* ` ./TermuStyleCj7 `
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/TermuStyleCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd TermuStyleCj7 && chmod +x * && ./TermuStyleCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
