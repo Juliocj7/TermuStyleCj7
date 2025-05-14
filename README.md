@@ -42,11 +42,11 @@
 </div>
 
 ## Menú Principal :
-![1000328575](https://github.com/Juliocj7/TermuStyleCj7/assets/81049859/ef348bb3-eb2d-4358-8c46-3a4e6b9c8437)
+[![1000328575](https://github.com/user-attachments/assets/7f94fe11-cc15-4380-9a3c-96bc814e1dd8)](#---)
 
 <div align="center">
 
-  > 𝚂𝚘𝚛𝚛𝚢, 𝚎𝚜𝚝𝚊 𝚎𝚜 𝚞𝚗𝚊 𝚟𝚎𝚛𝚜𝚒𝚘𝚗 𝚘𝚋𝚜𝚘𝚕𝚎𝚝𝚊 𝚍𝚎: [`𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝`](https://github.com/Juliocj7/SimplyTheBest)
+  > 𝙴𝚜𝚝𝚊 𝚎𝚜 𝚞𝚗𝚊 𝚟𝚎𝚛𝚜𝚒𝚘𝚗 𝚘𝚋𝚜𝚘𝚕𝚎𝚝𝚊 𝚍𝚎: [`𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝`](https://github.com/Juliocj7/SimplyTheBest)
 
 </div>
 
